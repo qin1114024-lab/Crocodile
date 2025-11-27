@@ -12,7 +12,7 @@ const EducationPanel: React.FC = () => {
           <ul className="space-y-2 text-sm text-slate-600">
             <li className="flex items-start">
               <span className="mr-2 text-up">●</span>
-              <span><strong>紅 K (陽線)：</strong> 收盤價 > 開盤價。代表買方力道強，價格上漲。實體下緣為開盤，上緣為收盤。</span>
+              <span><strong>紅 K (陽線)：</strong> 收盤價 &gt; 開盤價。代表買方力道強，價格上漲。實體下緣為開盤，上緣為收盤。</span>
             </li>
             <li className="flex items-start">
               <span className="mr-2 text-down">●</span>
